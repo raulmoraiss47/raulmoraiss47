@@ -1,4 +1,4 @@
-## Olá! Eu sou o Raul Morais 🙋‍♂️
+## Olá! Eu sou o Raul Morais  🙋‍♂️
 
 [![Blog](https://img.shields.io/website?label=Rlfilmes.online&style=for-the-badge&url=https://rlfilmes.online/)](https://rlfilmes.online)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
@@ -17,5 +17,4 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   
 </div><br/>
-
-Apaixonado por tecnologia, educação e resolver problemas através da programação.
+Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
