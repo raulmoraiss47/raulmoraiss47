@@ -1,4 +1,4 @@
-## Olá! Eu sou o Raul Morais  🙋‍♂️
+## Olá! Eu sou o Raul Morais  🙋‍
 
 [![Blog](https://img.shields.io/website?label=Rlfilmes.online&style=for-the-badge&url=https://rlfilmes.online/)](https://rlfilmes.online)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
