@@ -17,4 +17,4 @@
 
   
 </div><br/>
-Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
